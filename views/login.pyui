@@ -1,0 +1,56 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{104, 224}, {112, 92}}",
+        "class" : "Button",
+        "attributes" : {
+          "flex" : "LRB",
+          "frame" : "{{80, 104}, {80, 32}}",
+          "title" : "OK",
+          "uuid" : "8E478AD9-C256-433D-AC66-0DEA249F75F5",
+          "background_color" : "RGBA(0.500000,0.642857,1.000000,1.000000)",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{16, 184}, {282, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "flex" : "LRB",
+          "secure" : true,
+          "name" : "textfield1",
+          "frame" : "{{20, 104}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "44B1D9F6-B929-4A5F-8DAA-E950B67BFEF5",
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 320}}",
+    "class" : "View",
+    "attributes" : {
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "name" : "",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
